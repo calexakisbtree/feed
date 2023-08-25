@@ -1,4 +1,5 @@
-[
+{
+  "posts": [
 	{
 		"id": "KLAVIYO-TSHIRT1",
 		"title": "Classic Klaviyo T-Shirt 1",
@@ -47,4 +48,4 @@
 		"inventory_quantity": 0,
 		"inventory_policy": 1
 	}
-]
+]}
